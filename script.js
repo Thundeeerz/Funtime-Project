@@ -15,6 +15,8 @@ const texts = [
     "E̷X̵P̷E̵R̷I̵M̷E̷N̸T",
     "COME VISIT US",
     "WE ARE WAITING",
+    "WHY ARE YOU HERE?",
+    ":)",
     "L̶E̷T̷ ̵U̴S̴ ̶O̶U̶T̷",
     "I̴̳͑̈́'̶̹̗̏M̵̳̀̊ ̸̛̥͆W̶̧̩̊͋Ă̸̢̩͊T̷͖̆C̷͎̈́͝H̶̩̜͛́I̸͕̍N̴̙͈̍̇G̴̖̃̿"
 ]
@@ -44,3 +46,4 @@ function eraseText(){
     }
 }
 window.onload = typeWriter
+
