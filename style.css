@@ -10,7 +10,7 @@ body{
     height: 100vh;
     overflow: hidden;
     background-color: rgb(224, 224, 220);
-    background-image: url(Bg/layered-waves-haikei.svg);
+    background-image: url(Bg/layered-waves-haikei.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover
