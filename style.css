@@ -10,7 +10,7 @@ body{
     height: 100vh;
     overflow: hidden;
     background-color: rgb(224, 224, 220);
-    background-image: url(Bg/layered-waves-haikei.png);
+    background-image: url(wave.svg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover
@@ -157,6 +157,10 @@ section{
     margin: 10px 0;
 }
 
+button {
+	padding-bottom: 40px;
+}
+
 .content button{
     width: 50%;
     height: 6vh;
@@ -169,7 +173,6 @@ section{
     font-weight: 700;
     border-radius: 5px;
     transition: 0.2s linear;
-    padding-bottom: 40px;
 }
 html {
     cursor: url(cursors/poppy-playtime-doey-the-doughman-cursor.png), auto;
